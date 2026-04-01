@@ -1,6 +1,6 @@
 import "../src/index.css";
 
-import { initialize, mswLoader } from 'msw-storybook-addon';
+import { initialize, mswLoader } from "msw-storybook-addon";
 
 // Initialize MSW
 initialize();
